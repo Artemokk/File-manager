@@ -1,0 +1,6 @@
+D:\Учёба\2 курс\2 сем\Архитектура\lab4\createrinfo\createrinfo\bin\Debug\createrinfo.dll
+D:\Учёба\2 курс\2 сем\Архитектура\lab4\createrinfo\createrinfo\bin\Debug\createrinfo.pdb
+D:\Учёба\2 курс\2 сем\Архитектура\lab4\createrinfo\createrinfo\obj\Debug\createrinfo.csprojAssemblyReference.cache
+D:\Учёба\2 курс\2 сем\Архитектура\lab4\createrinfo\createrinfo\obj\Debug\createrinfo.csproj.CoreCompileInputs.cache
+D:\Учёба\2 курс\2 сем\Архитектура\lab4\createrinfo\createrinfo\obj\Debug\createrinfo.dll
+D:\Учёба\2 курс\2 сем\Архитектура\lab4\createrinfo\createrinfo\obj\Debug\createrinfo.pdb

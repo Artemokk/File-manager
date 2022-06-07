@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "xR5yuVVQsShRJIQE/sNljjAv5hRzCBPxyGjwsm42pjWWzsRxYYVJBz92FkG1rHyFAmPaxNNNql8/ToHwNd5mRw==",
+  "success": true,
+  "projectFilePath": "F:\\2kurs\\2sem\\Архитектура\\Копия\\lab1\\lab1\\lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artio\\.nuget\\packages\\microsoft.windowsapicodepack.core\\1.1.0\\microsoft.windowsapicodepack.core.1.1.0.nupkg.sha512",
+    "C:\\Users\\artio\\.nuget\\packages\\microsoft.windowsapicodepack.shell\\1.1.0\\microsoft.windowsapicodepack.shell.1.1.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Microsoft.WindowsAPICodePack.Core 1.1.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Microsoft.WindowsAPICodePack.Core",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Microsoft.WindowsAPICodePack.Shell 1.1.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Microsoft.WindowsAPICodePack.Shell",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

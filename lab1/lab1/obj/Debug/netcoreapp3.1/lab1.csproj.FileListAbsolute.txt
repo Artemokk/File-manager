@@ -1,0 +1,66 @@
+C:\Users\User\Videos\!work\2 сем\Архитектура\lab1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+C:\Users\User\Videos\!work\2 сем\Архитектура\lab1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+C:\Users\User\Videos\!work\2 сем\Архитектура\lab1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+C:\Users\User\Videos\!work\2 сем\Архитектура\lab1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+C:\Users\User\Videos\!work\2 сем\Архитектура\lab1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+C:\Users\User\Videos\!work\2 сем\Архитектура\lab1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+C:\Users\User\Videos\!work\2 сем\Архитектура\lab1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csprojAssemblyReference.cache
+C:\Users\User\Videos\!work\2 сем\Архитектура\lab1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.Form1.resources
+C:\Users\User\Videos\!work\2 сем\Архитектура\lab1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.GenerateResource.cache
+C:\Users\User\Videos\!work\2 сем\Архитектура\lab1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+C:\Users\User\Videos\!work\2 сем\Архитектура\lab1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+C:\Users\User\Videos\!work\2 сем\Архитектура\lab1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+C:\Users\User\Videos\!work\2 сем\Архитектура\lab1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+C:\Users\User\Videos\!work\2 сем\Архитектура\lab1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+C:\Users\User\Videos\!work\2 сем\Архитектура\lab1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
+E:\2kurs\2sem\Архитектура\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+E:\2kurs\2sem\Архитектура\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+E:\2kurs\2sem\Архитектура\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+E:\2kurs\2sem\Архитектура\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+E:\2kurs\2sem\Архитектура\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+E:\2kurs\2sem\Архитектура\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+E:\2kurs\2sem\Архитектура\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csprojAssemblyReference.cache
+E:\2kurs\2sem\Архитектура\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.Form1.resources
+E:\2kurs\2sem\Архитектура\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.GenerateResource.cache
+E:\2kurs\2sem\Архитектура\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+E:\2kurs\2sem\Архитектура\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+E:\2kurs\2sem\Архитектура\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+E:\2kurs\2sem\Архитектура\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+E:\2kurs\2sem\Архитектура\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+E:\2kurs\2sem\Архитектура\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
+D:\Учёба\2 курс\2 сем\Архитектура\Laba1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+D:\Учёба\2 курс\2 сем\Архитектура\Laba1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+D:\Учёба\2 курс\2 сем\Архитектура\Laba1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+D:\Учёба\2 курс\2 сем\Архитектура\Laba1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+D:\Учёба\2 курс\2 сем\Архитектура\Laba1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+D:\Учёба\2 курс\2 сем\Архитектура\Laba1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+D:\Учёба\2 курс\2 сем\Архитектура\Laba1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csprojAssemblyReference.cache
+D:\Учёба\2 курс\2 сем\Архитектура\Laba1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.Form1.resources
+D:\Учёба\2 курс\2 сем\Архитектура\Laba1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.GenerateResource.cache
+D:\Учёба\2 курс\2 сем\Архитектура\Laba1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+D:\Учёба\2 курс\2 сем\Архитектура\Laba1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+D:\Учёба\2 курс\2 сем\Архитектура\Laba1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+D:\Учёба\2 курс\2 сем\Архитектура\Laba1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+D:\Учёба\2 курс\2 сем\Архитектура\Laba1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+D:\Учёба\2 курс\2 сем\Архитектура\Laba1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
+D:\Учёба\2 курс\2 сем\Архитектура\Laba1\lab1\lab1\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Учёба\2 курс\2 сем\Архитектура\Laba1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CopyComplete
+D:\Учёба\2 курс\2 сем\Архитектура\Laba1\lab1\lab1\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.dll
+D:\Учёба\2 курс\2 сем\Архитектура\lab4\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csprojAssemblyReference.cache
+D:\Учёба\2 курс\2 сем\Архитектура\lab4\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.Form1.resources
+D:\Учёба\2 курс\2 сем\Архитектура\lab4\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.GenerateResource.cache
+D:\Учёба\2 курс\2 сем\Архитектура\lab4\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+D:\Учёба\2 курс\2 сем\Архитектура\lab4\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+D:\Учёба\2 курс\2 сем\Архитектура\lab4\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+D:\Учёба\2 курс\2 сем\Архитектура\lab4\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+D:\Учёба\2 курс\2 сем\Архитектура\lab4\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+D:\Учёба\2 курс\2 сем\Архитектура\lab4\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+D:\Учёба\2 курс\2 сем\Архитектура\lab4\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+D:\Учёба\2 курс\2 сем\Архитектура\lab4\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+D:\Учёба\2 курс\2 сем\Архитектура\lab4\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+D:\Учёба\2 курс\2 сем\Архитектура\lab4\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+D:\Учёба\2 курс\2 сем\Архитектура\lab4\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+D:\Учёба\2 курс\2 сем\Архитектура\lab4\lab1\lab1\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.dll
+D:\Учёба\2 курс\2 сем\Архитектура\lab4\lab1\lab1\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Учёба\2 курс\2 сем\Архитектура\lab4\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CopyComplete
+D:\Учёба\2 курс\2 сем\Архитектура\lab4\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
